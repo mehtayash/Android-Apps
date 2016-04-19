@@ -1,0 +1,2 @@
+/Users/ymehta/android backup/AndroidStudioProjects/Triviality/app/build/intermediates/classes/debug
+/Users/ymehta/android backup/AndroidStudioProjects/Triviality/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-e6a3769477c6de6cbf6433dacf74a778827fe5e4.jar

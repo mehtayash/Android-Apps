@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:padding="25dp">
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Enter car Details"
+        android:id="@+id/text_car_details"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:textColor="#263755" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/edit_car_number"
+        android:hint="Car model &amp; number"
+        android:layout_below="@+id/text_car_details"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="36dp" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Proceed"
+        android:id="@+id/but_proceed"
+        android:layout_below="@+id/button"
+        android:layout_centerHorizontal="true"
+        android:textColor="#F7F7F9"
+        android:background="#01B0CB"
+        android:layout_marginTop="20dp" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Add Car"
+        android:id="@+id/button"
+        android:layout_below="@+id/edit_car_number"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="47dp"
+        android:background="#016A7A"
+        android:textColor="#F7F7F9" />
+</RelativeLayout>
+

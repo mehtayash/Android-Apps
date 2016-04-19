@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ymehta/AndroidStudioProjects/android-quiz-master/app/libs/roboguice-2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="727ccb8f376109d0b5c44abca6f791dccc5c5dbc">
+        <dex dex="/Users/ymehta/AndroidStudioProjects/android-quiz-master/app/build/intermediates/pre-dexed/debug/roboguice-2.0-e9649d3907f5683e6245ca10dc201813bc545c3d.jar" />
+    </item>
+    <item
+        jar="/Users/ymehta/AndroidStudioProjects/android-quiz-master/app/libs/guice-2.0-no_aop.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2be04047e69a1819a60f111cacced6a81cdbd630">
+        <dex dex="/Users/ymehta/AndroidStudioProjects/android-quiz-master/app/build/intermediates/pre-dexed/debug/guice-2.0-no_aop-006211d3d21292f9f149137c87f27ec9563ffcc0.jar" />
+    </item>
+    <item
+        jar="/Users/ymehta/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/ymehta/AndroidStudioProjects/android-quiz-master/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-e6a3769477c6de6cbf6433dacf74a778827fe5e4.jar" />
+    </item>
+
+</items>

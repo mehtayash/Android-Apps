@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android" >
+    <!-- slide in from the left -->
+    <translate android:fromXDelta="100%" android:toXDelta="0"
+               android:duration="@integer/slide_duration"/> 
+</set><!-- From: file:/Users/ymehta/AndroidStudioProjects/android-quiz-master/app/src/main/res/anim/slide_in_left.xml -->

@@ -1,0 +1,10 @@
+/Users/ymehta/AndroidStudioProjects/Quiz/Wearable/build/intermediates/classes/debug
+/Users/ymehta/AndroidStudioProjects/Quiz/Wearable/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-ba41af955242b346f64d01106e99bc894e944e3a.jar
+/Users/ymehta/AndroidStudioProjects/Quiz/Wearable/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-cb8397ce2868a33bd7977f46549bda117c5935a2.jar
+/Users/ymehta/AndroidStudioProjects/Quiz/Wearable/build/intermediates/pre-dexed/debug/classes-e2702c4935b63e4ea22c83ffd0c611c964857522.jar
+/Users/ymehta/AndroidStudioProjects/Quiz/Wearable/build/intermediates/pre-dexed/debug/classes-648f1dd79e328c2436679d56165f73029377782e.jar
+/Users/ymehta/AndroidStudioProjects/Quiz/Wearable/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-8fa323f130bf42ee6fe1a3d87fa63d9e97f7380b.jar
+/Users/ymehta/AndroidStudioProjects/Quiz/Wearable/build/intermediates/pre-dexed/debug/classes-a25e9ba09e5abe0ff6cf93876701ed5649caf22b.jar
+/Users/ymehta/AndroidStudioProjects/Quiz/Wearable/build/intermediates/pre-dexed/debug/classes-d8fb78d45ecebf9a421179b4a66838ae7f02c954.jar
+/Users/ymehta/AndroidStudioProjects/Quiz/Wearable/build/intermediates/pre-dexed/debug/classes-890329726d010768601b901fbd66ef9f0247feb3.jar
+/Users/ymehta/AndroidStudioProjects/Quiz/Wearable/build/intermediates/pre-dexed/debug/classes-8cfcf600506e7b6502111d151f44e202b77a9815.jar

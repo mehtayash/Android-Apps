@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ymehta/AndroidStudioProjects/Quiz/Wearable/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="/Users/ymehta/AndroidStudioProjects/Quiz/Wearable/build/intermediates/pre-dexed/debug/classes-d8fb78d45ecebf9a421179b4a66838ae7f02c954.jar" />
+    </item>
+    <item
+        jar="/Users/ymehta/AndroidStudioProjects/Quiz/Wearable/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/ymehta/AndroidStudioProjects/Quiz/Wearable/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-8fa323f130bf42ee6fe1a3d87fa63d9e97f7380b.jar" />
+    </item>
+    <item
+        jar="/Users/ymehta/AndroidStudioProjects/Quiz/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="/Users/ymehta/AndroidStudioProjects/Quiz/Wearable/build/intermediates/pre-dexed/debug/classes-8cfcf600506e7b6502111d151f44e202b77a9815.jar" />
+    </item>
+    <item
+        jar="/Users/ymehta/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/ymehta/AndroidStudioProjects/Quiz/Wearable/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-cb8397ce2868a33bd7977f46549bda117c5935a2.jar" />
+    </item>
+    <item
+        jar="/Users/ymehta/AndroidStudioProjects/Quiz/Wearable/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/ymehta/AndroidStudioProjects/Quiz/Wearable/build/intermediates/pre-dexed/debug/classes-890329726d010768601b901fbd66ef9f0247feb3.jar" />
+    </item>
+    <item
+        jar="/Users/ymehta/AndroidStudioProjects/Quiz/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="6384c6cd674a22610b932d9464aa6938d067f285">
+        <dex dex="/Users/ymehta/AndroidStudioProjects/Quiz/Wearable/build/intermediates/pre-dexed/debug/classes-648f1dd79e328c2436679d56165f73029377782e.jar" />
+    </item>
+    <item
+        jar="/Users/ymehta/AndroidStudioProjects/Quiz/Wearable/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2c2071dcaf7a008c3b01a6381a33be55396bab09">
+        <dex dex="/Users/ymehta/AndroidStudioProjects/Quiz/Wearable/build/intermediates/pre-dexed/debug/classes-e2702c4935b63e4ea22c83ffd0c611c964857522.jar" />
+    </item>
+    <item
+        jar="/Users/ymehta/AndroidStudioProjects/Quiz/Wearable/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="0dcc55e70f7ebf7238fe2ec53f662eb378ab2668">
+        <dex dex="/Users/ymehta/AndroidStudioProjects/Quiz/Wearable/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-ba41af955242b346f64d01106e99bc894e944e3a.jar" />
+    </item>
+    <item
+        jar="/Users/ymehta/AndroidStudioProjects/Quiz/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="27f19641b81b1078e653d2f0e5d1ed44d158a785">
+        <dex dex="/Users/ymehta/AndroidStudioProjects/Quiz/Wearable/build/intermediates/pre-dexed/debug/classes-a25e9ba09e5abe0ff6cf93876701ed5649caf22b.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,4 @@
+/Users/ymehta/AndroidStudioProjects/android-quiz-master/app/build/intermediates/classes/debug
+/Users/ymehta/AndroidStudioProjects/android-quiz-master/app/build/intermediates/pre-dexed/debug/roboguice-2.0-e9649d3907f5683e6245ca10dc201813bc545c3d.jar
+/Users/ymehta/AndroidStudioProjects/android-quiz-master/app/build/intermediates/pre-dexed/debug/guice-2.0-no_aop-006211d3d21292f9f149137c87f27ec9563ffcc0.jar
+/Users/ymehta/AndroidStudioProjects/android-quiz-master/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-e6a3769477c6de6cbf6433dacf74a778827fe5e4.jar

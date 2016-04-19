@@ -1,0 +1,64 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_gravity="center"
+    android:baselineAligned="false"
+    android:gravity="center"
+    android:orientation="horizontal"
+    tools:context=".MainActivity"
+    android:background="#ffffff">
+
+    <FrameLayout
+        android:id="@+id/placeholder_left"
+        android:layout_width="0px"
+        android:layout_height="1dip"
+        android:layout_weight="1" >
+    </FrameLayout>
+
+
+
+    <LinearLayout
+        android:layout_width="0px"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center"
+        android:layout_weight="3"
+        android:gravity="center"
+        android:orientation="vertical" >
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:id="@+id/imageView2"
+            android:layout_gravity="center_vertical"
+            android:cropToPadding="false"
+            android:src="@drawable/logo_final"
+            android:background="#FFFFFF"/>
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="290dp"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="QUiZ"
+            android:textSize="28sp"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_marginBottom="20dp" />
+
+        <Button
+            android:id="@+id/buttonStart"
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:background="@drawable/button_main"
+            android:layout_marginTop="@dimen/button_margin"
+            android:text="START" />
+
+    </LinearLayout>
+
+    <FrameLayout
+        android:id="@+id/placeholder_right"
+        android:layout_width="0px"
+        android:layout_height="1dip"
+        android:layout_weight="1" >
+    </FrameLayout>
+
+</LinearLayout>

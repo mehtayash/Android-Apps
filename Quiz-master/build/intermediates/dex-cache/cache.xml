@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ymehta/AndroidStudioProjects/Quiz-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="/Users/ymehta/AndroidStudioProjects/Quiz-master/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-ff665d33be792191876226052152376e2fe5fdc4.jar" />
+    </item>
+    <item
+        jar="/Users/ymehta/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="/Users/ymehta/AndroidStudioProjects/Quiz-master/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-d898170b4cd9266845eb680f9dbc911b73d41449.jar" />
+    </item>
+    <item
+        jar="/Users/ymehta/AndroidStudioProjects/Quiz-master/app/libs/javax.inject-1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/ymehta/AndroidStudioProjects/Quiz-master/app/build/intermediates/pre-dexed/debug/javax.inject-1-636e7c439b95947493c61cede3baf4ae1d4eff7b.jar" />
+    </item>
+    <item
+        jar="/Users/ymehta/AndroidStudioProjects/Quiz-master/app/libs/ormlite-android-4.47.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c72f9ed54d8a8bab3fbf56da2b358308a67899a4">
+        <dex dex="/Users/ymehta/AndroidStudioProjects/Quiz-master/app/build/intermediates/pre-dexed/debug/ormlite-android-4.47-dc1b834bb2494d7f7ed47adcc793a6ba890995b4.jar" />
+    </item>
+    <item
+        jar="/Users/ymehta/AndroidStudioProjects/Quiz-master/app/libs/simple-xml-2.7.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="083623424bcfa03bd598e709765bad0816c2375d">
+        <dex dex="/Users/ymehta/AndroidStudioProjects/Quiz-master/app/build/intermediates/pre-dexed/debug/simple-xml-2.7.1-47d146cba35aa3e0c2439cd12890e362240da24e.jar" />
+    </item>
+    <item
+        jar="/Users/ymehta/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/15.0/ed727a8d9f247e2050281cb083f1c77b09dcb5cd/guava-15.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ed727a8d9f247e2050281cb083f1c77b09dcb5cd">
+        <dex dex="/Users/ymehta/AndroidStudioProjects/Quiz-master/app/build/intermediates/pre-dexed/debug/guava-15.0-324204ea15420cccd4edebae640d659fdb6b6ff7.jar" />
+    </item>
+    <item
+        jar="/Users/ymehta/AndroidStudioProjects/Quiz-master/app/libs/guice-3.0-no_aop.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="28586dc97c525501329d9a242fc3402041e3572d">
+        <dex dex="/Users/ymehta/AndroidStudioProjects/Quiz-master/app/build/intermediates/pre-dexed/debug/guice-3.0-no_aop-5ac95d5492586a20545e31cf6e63897733106fb5.jar" />
+    </item>
+    <item
+        jar="/Users/ymehta/AndroidStudioProjects/Quiz-master/app/libs/acra-4.5.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44a5eb946e0d83eed4a0128d877ca1fd8168b83a">
+        <dex dex="/Users/ymehta/AndroidStudioProjects/Quiz-master/app/build/intermediates/pre-dexed/debug/acra-4.5.0-bd21488e1bac08a78a0a05f22973765f6e01582e.jar" />
+    </item>
+    <item
+        jar="/Users/ymehta/AndroidStudioProjects/Quiz-master/app/libs/ormlite-jdbc-4.47.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="89596532998fc96153e4459a1ddb406f626707a7">
+        <dex dex="/Users/ymehta/AndroidStudioProjects/Quiz-master/app/build/intermediates/pre-dexed/debug/ormlite-jdbc-4.47-e5d253e45352ab9f911b10d56fcdce7ec74aade5.jar" />
+    </item>
+    <item
+        jar="/Users/ymehta/AndroidStudioProjects/Quiz-master/app/libs/roboguice-2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="727ccb8f376109d0b5c44abca6f791dccc5c5dbc">
+        <dex dex="/Users/ymehta/AndroidStudioProjects/Quiz-master/app/build/intermediates/pre-dexed/debug/roboguice-2.0-78565dfd6219cef843342dc56543e2861056750a.jar" />
+    </item>
+    <item
+        jar="/Users/ymehta/AndroidStudioProjects/Quiz-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="/Users/ymehta/AndroidStudioProjects/Quiz-master/app/build/intermediates/pre-dexed/debug/classes-01253b594fa347b908fda14e0efc5e4021b67a09.jar" />
+    </item>
+    <item
+        jar="/Users/ymehta/AndroidStudioProjects/Quiz-master/app/libs/ormlite-core-4.47.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e11abddd1e9c2053a92133fa83f78f7bedb820a9">
+        <dex dex="/Users/ymehta/AndroidStudioProjects/Quiz-master/app/build/intermediates/pre-dexed/debug/ormlite-core-4.47-92b6a8b8d4c403d1d6d10c35aa164431dc735009.jar" />
+    </item>
+
+</items>

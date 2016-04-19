@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/ymehta/AndroidStudioProjects/android-quiz-master/app/src/main/res/values/keys.xml -->
+    <eat-comment/>
+    <string-array name="mode_entries">
+	    <item>Multiple Choice</item>
+	    <item>Flashcard</item>
+	    <item>Per Category</item>
+	</string-array>
+    <string-array name="mode_entryValues">
+	    <item>0</item>
+	    <item>1</item>
+	    <item>2</item>
+	</string-array>
+    <string-array name="navigation_entries">
+	    <item>Buttons</item>
+	    <item>Gestures</item>
+	    <item>Buttons and Gestures</item>
+	</string-array>
+    <string-array name="navigation_entryValues">
+	    <item>1</item>
+	    <item>2</item>
+	    <item>3</item>
+	</string-array>
+    <string-array name="questionLayout_entries">
+	    <item>Fixed Buttons</item>
+	    <item>Scroll Buttons</item>
+	</string-array>
+    <string-array name="questionLayout_entryValues">
+	    <item>1</item>
+	    <item>2</item>
+	</string-array>
+    <!-- From: file:/Users/ymehta/AndroidStudioProjects/android-quiz-master/app/src/main/res/values/config.xml -->
+    <eat-comment/>
+    <bool name="config_autoNext">false</bool>
+    <bool name="config_defaultSoundEnabled">true</bool>
+    <bool name="config_fixedLayout">true</bool>
+    <bool name="config_flashcardMode">false</bool>
+    <bool name="config_highScores">true</bool>
+    <!-- From: file:/Users/ymehta/AndroidStudioProjects/android-quiz-master/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="answer_pressed">#ff9900</color>
+    <color name="background">@color/blue</color>
+    <color name="blue">#000099</color>
+    <color name="button_correct_end">#00570a</color>
+    <color name="button_correct_start">#377d00</color>
+    <color name="button_disabled_end">#6b6a6a</color>
+    <color name="button_disabled_start">#d8d8d8</color>
+    <color name="button_incorrect_end">#80170e</color>
+    <color name="button_incorrect_start">#ad2416</color>
+    <color name="button_normal_end">#aa3e00</color>
+    <color name="button_normal_start">#ff8f00</color>
+    <color name="foreground">@color/white</color>
+    <color name="foreground_inverse">@color/blue</color>
+    <color name="highlight">@color/orange</color>
+    <color name="olive">#666633</color>
+    <color name="orange">#FF9900</color>
+    <color name="secondary_text">#A0A0A0</color>
+    <color name="white">#FFFFFF</color>
+    <color name="yellow">#FFCC00</color>
+    <declare-styleable name="QuizButton"><attr format="boolean" name="correct"/><attr format="boolean" name="showing_answer"/></declare-styleable>
+    <declare-styleable name="quiz_button"><attr format="boolean" name="state_correct"/><attr format="boolean" name="state_showing_answer"/></declare-styleable>
+    <!-- From: file:/Users/ymehta/AndroidStudioProjects/android-quiz-master/app/src/main/res/values/config.xml -->
+    <eat-comment/>
+    <integer name="config_autoNextDelay">1500</integer>
+    <integer name="config_defaultNumQuestions">15</integer>
+    <integer name="config_fontSize">16</integer>
+    <!-- From: file:/Users/ymehta/AndroidStudioProjects/android-quiz-master/app/src/main/res/values/integers.xml -->
+    <eat-comment/>
+    <item name="slide_duration" type="integer">300</item>
+    <!-- From: file:/Users/ymehta/AndroidStudioProjects/android-quiz-master/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Quiz</string>
+    <string name="back">Back</string>
+    <string name="choose_category">Pick a Category</string>
+    <string name="complete">Quiz Complete</string>
+    <string name="complete_high_score">High Score!</string>
+    <string name="complete_score_format">You got %1$d of %2$d correct (%3$d%%).</string>
+    <!-- From: file:/Users/ymehta/AndroidStudioProjects/android-quiz-master/app/src/main/res/values/config.xml -->
+    <eat-comment/>
+    <string name="config_questionsFile">quiz-example.xml</string>
+    <!-- From: file:/Users/ymehta/AndroidStudioProjects/android-quiz-master/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="default_content_description">Not Important</string>
+    <string name="header_image_content_description">Application Logo</string>
+    <string name="header_text">String \"header_text\"</string>
+    <string name="header_title">String \"header_title\"</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="home">Home</string>
+    <!-- From: file:/Users/ymehta/AndroidStudioProjects/android-quiz-master/app/src/main/res/values/keys.xml -->
+    <eat-comment/>
+    <string name="key_allowSkipQuestions">allowSkipQuestions</string>
+    <string name="key_animate">animate</string>
+    <string name="key_autoNextQuestion">autoNextQuestion</string>
+    <string name="key_autoNextQuestionDelay">autoNextQuestionDelay</string>
+    <string name="key_export">export</string>
+    <string name="key_flashcardAnimationType">flashcardAnimationType</string>
+    <string name="key_mode">mode</string>
+    <string name="key_navigation">navigation</string>
+    <string name="key_questionAnimationType">questionAnimationType</string>
+    <string name="key_questionFontSize">questionFontSize</string>
+    <string name="key_questionLayout">questionLayout</string>
+    <string name="key_quizLength">quizLength</string>
+    <string name="key_showHighScores">showHighScores</string>
+    <string name="key_showIcons">showIcons</string>
+    <string name="key_soundEnabled">soundEnabled</string>
+    <!-- From: file:/Users/ymehta/AndroidStudioProjects/android-quiz-master/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="loading_progress_message">Loading assets into database.</string>
+    <string name="loading_progress_title">Creating Database</string>
+    <string name="menu_about">About</string>
+    <string name="menu_settings">Settings</string>
+    <string name="next">Next</string>
+    <string name="next_question">Next Question</string>
+    <string name="progress_template">Question ^1 of ^2</string>
+    <string name="score_template">^1 of ^2 (%^3)</string>
+    <string name="setting_sound_label">Sound</string>
+    <string name="show_answer">Show Answer</string>
+    <string name="show_question">Show Question</string>
+    <string name="sound_warning">This question has sound, but your volume is set to mute.</string>
+    <string name="start_quiz_label">Start Quiz</string>
+    <string name="title_activity_about">About Quizes</string>
+    <string name="title_activity_categories">Pick a Category</string>
+    <string name="title_activity_complete">CompleteActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_quiz">QuizActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="try_again">Try Again</string>
+    <!-- From: file:/Users/ymehta/AndroidStudioProjects/android-quiz-master/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="button">
+        <item name="android:background">@drawable/button_background</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">3dp</item>
+        <item name="android:textSize">14dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+        <item name="android:minHeight">0dp</item>
+        <item name="android:linksClickable">true</item>
+    </style>
+    <style name="theme" parent="@android:style/Theme.DeviceDefault">
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:colorBackgroundCacheHint">@color/background</item>
+        <item name="android:textColorPrimary">@color/foreground</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:colorPressedHighlight">@color/highlight</item>
+    </style>
+</resources>

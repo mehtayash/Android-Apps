@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:padding="25dp"
+    android:background="#f4f4f4">
+
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/edit_username"
+        android:hint="Username"
+        android:layout_marginBottom="20dp"
+        android:layout_above="@+id/edit_password"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textColor="#263755" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:ems="10"
+        android:id="@+id/edit_password"
+        android:hint="Password"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="false"
+        android:layout_alignParentStart="true"
+        android:layout_alignRight="@+id/edit_username"
+        android:layout_alignEnd="@+id/edit_username"
+        android:layout_alignParentTop="false"
+        android:textColor="#263755"
+        android:selectAllOnFocus="true" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="LOGIN"
+        android:id="@+id/but_main_login"
+        android:layout_below="@+id/edit_password"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:paddingLeft="60dp"
+        android:paddingRight="60dp"
+        android:background="#273959"
+        android:textColor="#F7F7F9"
+        android:textColorHint="#FAFAFA" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="SIGN UP"
+        android:id="@+id/but_main_signup"
+        android:paddingLeft="60dp"
+        android:paddingRight="60dp"
+        android:background="#375882"
+        android:textColor="#F7F7F9"
+        android:textColorHint="#FAFAFA"
+        android:layout_below="@+id/but_main_login"
+        android:layout_alignLeft="@+id/but_main_login"
+        android:layout_alignStart="@+id/but_main_login"
+        android:layout_marginTop="32dp" />
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="By Signing in, I accept Quickie&apos;s Terms of Service and Privacy Policy "
+        android:id="@+id/text_disclaimer"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignRight="@+id/edit_password"
+        android:layout_alignEnd="@+id/edit_password"
+        android:gravity="center"
+        android:textColor="#080808" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="QUICKIE"
+        android:id="@+id/textView6"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:textSize="50sp"
+        android:textStyle="bold"
+        android:typeface="monospace"
+        android:gravity="center"
+        android:layout_above="@+id/edit_username"
+        android:textColor="#263755" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Forgot Password?"
+        android:id="@+id/text_forgot_pass"
+        android:layout_below="@+id/edit_password"
+        android:layout_alignRight="@+id/edit_password"
+        android:layout_alignEnd="@+id/edit_password"
+        android:textColor="#263755" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView"
+        android:src="@drawable/chauffeur"
+        android:layout_above="@+id/edit_username"
+        android:layout_toStartOf="@+id/textView6"
+        android:layout_alignTop="@+id/textView6"
+        android:layout_toLeftOf="@+id/textView6" />
+
+
+</RelativeLayout>

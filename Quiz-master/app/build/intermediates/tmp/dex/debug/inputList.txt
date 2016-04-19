@@ -1,0 +1,13 @@
+/Users/ymehta/AndroidStudioProjects/Quiz-master/app/build/intermediates/classes/debug
+/Users/ymehta/AndroidStudioProjects/Quiz-master/app/build/intermediates/pre-dexed/debug/javax.inject-1-636e7c439b95947493c61cede3baf4ae1d4eff7b.jar
+/Users/ymehta/AndroidStudioProjects/Quiz-master/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-d898170b4cd9266845eb680f9dbc911b73d41449.jar
+/Users/ymehta/AndroidStudioProjects/Quiz-master/app/build/intermediates/pre-dexed/debug/ormlite-android-4.47-dc1b834bb2494d7f7ed47adcc793a6ba890995b4.jar
+/Users/ymehta/AndroidStudioProjects/Quiz-master/app/build/intermediates/pre-dexed/debug/ormlite-jdbc-4.47-e5d253e45352ab9f911b10d56fcdce7ec74aade5.jar
+/Users/ymehta/AndroidStudioProjects/Quiz-master/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-ff665d33be792191876226052152376e2fe5fdc4.jar
+/Users/ymehta/AndroidStudioProjects/Quiz-master/app/build/intermediates/pre-dexed/debug/roboguice-2.0-78565dfd6219cef843342dc56543e2861056750a.jar
+/Users/ymehta/AndroidStudioProjects/Quiz-master/app/build/intermediates/pre-dexed/debug/acra-4.5.0-bd21488e1bac08a78a0a05f22973765f6e01582e.jar
+/Users/ymehta/AndroidStudioProjects/Quiz-master/app/build/intermediates/pre-dexed/debug/ormlite-core-4.47-92b6a8b8d4c403d1d6d10c35aa164431dc735009.jar
+/Users/ymehta/AndroidStudioProjects/Quiz-master/app/build/intermediates/pre-dexed/debug/simple-xml-2.7.1-47d146cba35aa3e0c2439cd12890e362240da24e.jar
+/Users/ymehta/AndroidStudioProjects/Quiz-master/app/build/intermediates/pre-dexed/debug/guice-3.0-no_aop-5ac95d5492586a20545e31cf6e63897733106fb5.jar
+/Users/ymehta/AndroidStudioProjects/Quiz-master/app/build/intermediates/pre-dexed/debug/classes-01253b594fa347b908fda14e0efc5e4021b67a09.jar
+/Users/ymehta/AndroidStudioProjects/Quiz-master/app/build/intermediates/pre-dexed/debug/guava-15.0-324204ea15420cccd4edebae640d659fdb6b6ff7.jar
